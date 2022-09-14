@@ -1,0 +1,2 @@
+This text was written here using 'echo something > this.file' and not manualy
+something appended
